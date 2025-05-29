@@ -15,7 +15,7 @@ Yet another GASP extension project in a myriad of others. This one is focused pr
 ## Notes
 - This project does not contain any additional characters to reduce file size.  
 - If you want just modified files of this project, you can find them [Here](https://github.com/ShatteredMirrorStudio/GASPALS_FilesOnly)
-- Lot of the blueprints and changes are commented, but I am also a mess. Sorry.
+- Many of the blueprints and changes are commented, but lot of it is still a mess. Sorry.
 - Traversal component is based on https://github.com/PolygonHive/GASP-ALS  
 
 ## Quick Start
