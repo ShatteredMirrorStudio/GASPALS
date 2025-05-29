@@ -4,7 +4,7 @@ Yet another GASP extension project in a myriad of others. This one is focused pr
 
 ## Features
 - First-Person GASP template with several camera and movement options. From creating static camera FPS character with GASP body, to fully dynamic and immersive parkour character.
-- Improved overlay system with separate Pose and Overlay layers. Easily combine base character pose and full body overlay to create a feminine character with a pistol.
+- Improved overlay system with separate Pose and Overlay layers. Easily combine base character pose and full body overlay.
 - ALS and City Sample poses and animations. Combine not only old ALS animations, but also newer CitySample poses and accessories.
 - Switching between FP and TP camera view.
 - Obligatory climb-anywhere traversal system. 
